@@ -1,0 +1,10 @@
+{
+    "version": "1.0.0",
+    "update_list": [
+        "config",
+        "defaultconfigs",
+        "kubejs",
+        "mods",
+        "scripts"
+    ]
+}
